@@ -17,4 +17,6 @@ Para instalar el proyecto, ejecuta `npm install` en la carpeta raiz del proyecto
 
 Puedes visitar los archivos del proyecto en `http://127.0.0.1:8080/`
 
+http://127.0.0.1:8080/spiral.html y http://127.0.0.1:8080/panal.html
+
 ¡Muchas gracias!
