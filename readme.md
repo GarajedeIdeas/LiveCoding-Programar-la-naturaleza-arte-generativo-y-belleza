@@ -1,5 +1,20 @@
 # Programar la naturaleza: arte generativo y belleza
 
-### By Dani Vicario
+### Por Dani Vicario
 
-Link to presentation: https://docs.google.com/presentation/d/1bjScZLoL0oy9d9kqFBr1hg_40ZRZGKCZTZwQB32rCtc/edit?usp=sharing
+Sígueme en Github
+https://github.com/danivicario
+
+Mis fotos de flores
+https://www.flickr.com/photos/danivicario
+
+Obras generativas en Behance
+https://www.behance.net/danivicario
+
+Enlace a la presentación: https://docs.google.com/presentation/d/1bjScZLoL0oy9d9kqFBr1hg_40ZRZGKCZTZwQB32rCtc/edit?usp=sharing
+
+Para instalar el proyecto, ejecuta `npm install` en la carpeta raiz del proyecto y luego `npm start`
+
+Puedes visitar los archivos del proyecto en `http://127.0.0.1:8080/`
+
+¡Muchas gracias!
